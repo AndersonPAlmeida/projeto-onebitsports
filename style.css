@@ -134,7 +134,7 @@ aside .card-aside:hover {
    border: 1px solid var(--color-gray-medio);
 }
 
-footer p {
+footer span {
    color: var(--color-white);
    font-size: 1.6rem;
    cursor: pointer;
